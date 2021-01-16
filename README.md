@@ -1,6 +1,6 @@
 # Breaking bad info site 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Deplyed app: https://breaking-bad-characters-dd20d.web.app/
 
 ## Available Scripts
 
