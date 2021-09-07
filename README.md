@@ -1,6 +1,6 @@
 # Breaking bad info site 
 
-### Deplyed app: https://breaking-bad-characters-dd20d.web.app/
+### Deployed app: https://breaking-bad-characters-dd20d.web.app/
 
 ## Available Scripts
 
